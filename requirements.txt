@@ -1,0 +1,13 @@
+# Core runtime dependencies
+# Install with:         pip install -r requirements.txt
+
+
+openai>=1.30.0,<2.0.0
+sqlglot>=23.0.0,<25.0.0
+duckdb>=0.10.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+python-dotenv>=1.0.0,<2.0.0
+numpy>=1.26.0,<3.0.0
+
+
+#run                python main.py "Fresenius.m4a"
